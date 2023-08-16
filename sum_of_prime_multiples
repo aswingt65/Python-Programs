@@ -1,0 +1,26 @@
+def is_prime(num):
+    if num <= 1:
+        return False
+    for i in range(2, int(num ** 0.5) + 1):
+        if num % i == 0:
+            return False
+    return True
+
+def prime_factors_sum(n):
+    if is_prime(n):
+        return n
+
+    factors = []
+    divisor = 2
+    while n > 1:
+        while n % divisor == 0:
+            factors.append(divisor)
+            n //= divisor
+        divisor += 1
+
+    return sum(factors)
+
+# Input from the user
+num = int(input("Enter a natural number: "))
+result = prime_factors_sum(num)
+print("Output:", result)
