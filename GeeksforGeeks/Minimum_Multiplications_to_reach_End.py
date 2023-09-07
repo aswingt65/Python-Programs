@@ -23,3 +23,12 @@ class Solution:
                     queue.append((next_value, count + 1))
    
         return -1
+
+#Driver code
+if __name__=="__main__":
+    for _ in range(int(input())):
+        n = int(input())
+        arr = [int(x) for x in input().strip().split()]
+        start, end = list(map(int,input().split()))
+        obj=Solution()
+        print(obj.minimumMultiplications(arr, start, end))
