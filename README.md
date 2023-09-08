@@ -16,3 +16,6 @@ Output = 12<br>
 <p>Given start, end and an array arr of n numbers. At each step, start is multiplied with any number in the array and then mod operation with 100000 is done to get the new start.
 Your task is to find the minimum steps in which end can be achieved starting from start. If it is not possible to reach end, then return -1.</p>
 
+<b>2. Binary Tree to BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Binary_Tree_to_BST.py)
+<p>Given a Binary Tree, convert it to Binary Search Tree in such a way that keeps the original structure of Binary Tree intact.</p>
+
