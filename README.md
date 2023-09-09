@@ -19,8 +19,7 @@ Your task is to find the minimum steps in which end can be achieved starting fro
 <b>2. Binary Tree to BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Binary_Tree_to_BST.py)
 <p>Given a Binary Tree, convert it to Binary Search Tree in such a way that keeps the original structure of Binary Tree intact.</p>
 
-<b>3. Kth largest element in BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Kth_largest_element_in_BST
-.py)
+<b>3. Kth largest element in BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Kth_largest_element_in_BST.py)
 <p>Given a Binary Search Tree. Your task is to complete the function which will return the Kth largest element without doing any modification in Binary Search Tree.</p>
 
 
