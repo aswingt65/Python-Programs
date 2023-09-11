@@ -11,8 +11,20 @@ Your task is to find the minimum steps in which end can be achieved starting fro
 <b>3. Kth largest element in BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Kth_largest_element_in_BST.py)
 <p>Given a Binary Search Tree. Your task is to complete the function which will return the Kth largest element without doing any modification in Binary Search Tree.</p>
 
-<b>3. Insert a node in a BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Insert_a_node_in_a_BST.py)
+<b>4. Insert a node in a BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Insert_a_node_in_a_BST.py)
 <p>Given a BST and a key K. If K is not present in the BST, Insert a new Node with a value equal to K into the BST. If K is already present in the BST, don't modify the BST.</p>
+
+<b>5. Lucky Numbers</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Lucky_Numbers.py)
+<p>Lucky numbers are subset of integers. Rather than going into much theory, let us see the process of arriving at lucky numbers,<br>
+Take the set of integers<br>
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,……<br>
+First, delete every second number, we get following reduced set.<br>
+1, 3, 5, 7, 9, 11, 13, 15, 17, 19,…………<br>
+Now, delete every third number, we get<br>
+1, 3, 7, 9, 13, 15, 19,….….<br>
+Continue this process indefinitely……<br>
+Any number that does NOT get deleted due to above process is called “lucky”.<br>
+You are given a number N, you need to tell whether the number is lucky or not. If the number is lucky return 1 otherwise 0.</p>
 
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
