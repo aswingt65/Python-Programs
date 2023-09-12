@@ -26,6 +26,9 @@ Continue this process indefinitely……<br>
 Any number that does NOT get deleted due to above process is called “lucky”.<br>
 You are given a number N, you need to tell whether the number is lucky or not. If the number is lucky return 1 otherwise 0.</p>
 
+<b>6. Perfect Numbers</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Perfect_Numbers.py)
+<p>Given a number N, check if a number is perfect or not. A number is said to be perfect if sum of all its factors excluding the number itself is equal to the number. Return 1 if the number is Perfect otherwise return 0.</p>
+
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
