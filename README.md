@@ -29,7 +29,7 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>6. Perfect Numbers</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Perfect_Numbers.py)
 <p>Given a number N, check if a number is perfect or not. A number is said to be perfect if sum of all its factors excluding the number itself is equal to the number. Return 1 if the number is Perfect otherwise return 0.</p>
 
-<b>6. Largest number possible</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Largest_number_possible.py)
+<b>7. Largest number possible</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Largest_number_possible.py)
 <p>Given two numbers 'N' and 'S' , find the largest number that can be formed with 'N' digits and whose sum of digits should be equals to 'S'. Return -1 if it is not possible.</p>
 
 
