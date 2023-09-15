@@ -35,6 +35,9 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>8. Perfect Sum Problem</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Perfect_Sum_Problem.py)
 <p>Given an array arr[] of non-negative integers and an integer sum, the task is to count all subsets of the given array with a sum equal to a given sum.</p>
 
+<b>9. Partition Equal Subset Sum</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Partition_Equal_Subset_Sum.py)
+<p>Given an array arr[] of size N, check if it can be partitioned into two parts such that the sum of elements in both parts is the same.</p>
+
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
