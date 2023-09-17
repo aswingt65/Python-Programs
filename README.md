@@ -41,6 +41,8 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>10. Count number of hops</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Count_number_of_hops.py)
 <p>A frog jumps either 1, 2, or 3 steps to go to the top. In how many ways can it reach the top of Nth step. As the answer will be large find the answer modulo 1000000007.</p>
 
+<b>11. Print first n Fibonacci Numbers</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Print_first_n_Fibonacci_Numbers.py)
+<p>Given a number N, find the first N Fibonacci numbers. The first two number of the series are 1 and 1.</p>
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
