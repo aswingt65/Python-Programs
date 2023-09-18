@@ -44,6 +44,9 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>11. Print first n Fibonacci Numbers</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Print_first_n_Fibonacci_Numbers.py)
 <p>Given a number N, find the first N Fibonacci numbers. The first two number of the series are 1 and 1.</p>
 
+<b>12. Power of 2</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Power_of_2.py)
+<p>Given a non-negative integer N. The task is to check if N is a power of 2. More formally, check if N can be expressed as 2^x for some integer x.</p>
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
