@@ -47,6 +47,9 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>12. Power of 2</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Power_of_2.py)
 <p>Given a non-negative integer N. The task is to check if N is a power of 2. More formally, check if N can be expressed as 2^x for some integer x.</p>
 
+<b>13. Find first set bit</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Find_first_set_bit.py)
+<p>Given an integer N. The task is to return the position of first set bit found from the right side in the binary representation of the number.</p>
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
