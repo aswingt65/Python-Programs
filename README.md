@@ -50,6 +50,9 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>13. Find first set bit</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Find_first_set_bit.py)
 <p>Given an integer N. The task is to return the position of first set bit found from the right side in the binary representation of the number.</p>
 
+<b>14. Rotate Bits</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Rotate_Bits.py)
+<p>Given an integer N and an integer D, rotate the binary representation of the integer N by D digits to the left as well as right and return the results in their decimal representation after each of the rotation.</p>
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
