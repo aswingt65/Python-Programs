@@ -59,6 +59,9 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>16. First and last occurrences of x</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/First_and_last_occurrences_of_x.py)
 <p>Given a sorted array arr containing n elements with possibly duplicate is to find indexes of first elements, the task is to find the first and last occurrences of an element x in the given array.</p>
 
+<b>17. Equilibrium Point</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Equilibrium_Point.py)
+<p>Given an array A of n positive numbers. The task is to find the first equilibrium point in an array. Equilibrium point in an array is a position such that the sum of elements before it is equal to the sum of elements after it.</p>
+
 
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
