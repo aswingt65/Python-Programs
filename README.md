@@ -65,6 +65,9 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>18. Find duplicates in an array</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Find_duplicates_in_an_array.py)
 <p>Given an array a of size N which contains elements from 0 to N-1, you need to find all the elements occurring more than once in the given array. Return the answer in ascending order. If no such element is found, return list containing [-1]. </p>
 
+<b>19. Maximum Sum Combination</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Maximum_Sum_Combination.py)
+<p>Given two integer array A and B of size N each. A sum combination is made by adding one element from array A and another element of array B. Return the maximum K valid sum combinations from all the possible sum combinations.</p>
+
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
