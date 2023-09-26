@@ -68,6 +68,8 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>19. Maximum Sum Combination</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Maximum_Sum_Combination.py)
 <p>Given two integer array A and B of size N each. A sum combination is made by adding one element from array A and another element of array B. Return the maximum K valid sum combinations from all the possible sum combinations.</p>
 
+<b>20. Find All Four Sum Numbers</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Find_All_Four_Sum_Numbers.py)
+<p>Given an array A of integers and another number K. Find all the unique quadruple from the given array that sums up to K. Also note that all the quadruples which you return should be internally sorted, ie for any quadruple [q1, q2, q3, q4] the following should follow: q1 <= q2 <= q3 <= q4.</p>
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
