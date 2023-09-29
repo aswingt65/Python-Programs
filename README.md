@@ -77,7 +77,8 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>22. Wave Array</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Wave_Array.py)
 <p>Given a sorted array arr[] of distinct integers. Sort the array into a wave-like array(In Place). In other words, arrange the elements into a sequence such that arr[1] >= arr[2] <= arr[3] >= arr[4] <= arr[5]..... <br>If there are multiple solutions, find the lexicographically smallest one.</p>
 
-
+<b>23. Number Of Enclaves</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Number_Of_Enclaves.py)
+<p>You are given an n x m binary matrix grid, where 0 represents a sea cell and 1 represents a land cell. A move consists of walking from one land cell to another adjacent (4-directionally) land cell or walking off the boundary of the grid. Find the number of land cells in grid for which we cannot walk off the boundary of the grid in any number of moves.</p>
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
