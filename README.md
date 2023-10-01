@@ -83,6 +83,10 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>24. Boolean Matrix</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Boolean_Matrix.py)
 <p>Given a boolean matrix of size RxC where each cell contains either 0 or 1, modify it such that if a matrix cell matrix[i][j] is 1 then all the cells in its ith row and jth column will become 1.</p>
 
+<b>25. Boundary traversal of matrix</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Boundary_traversal_of_matrix.py)
+<p>You are given a matrix of dimensions n x m. The task is to perform boundary traversal on the matrix in a clockwise manner.</p>
+
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
