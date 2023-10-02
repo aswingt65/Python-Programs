@@ -86,6 +86,9 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>25. Boundary traversal of matrix</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Boundary_traversal_of_matrix.py)
 <p>You are given a matrix of dimensions n x m. The task is to perform boundary traversal on the matrix in a clockwise manner.</p>
 
+<b>26. Number of distinct subsequences</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Number_of_distinct_subsequences.py)
+<p>Given a string consisting of lower case English alphabets, the task is to find the number of distinct subsequences of the string.</p>
+
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
