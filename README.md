@@ -92,6 +92,10 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>27. Column name from a given column number</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Column_name_from_a_given_column_number.py)
 <p>Given a positive integer, return its corresponding column title as appear in an Excel sheet. Excel columns has a pattern like A, B, C, … ,Z, AA, AB, AC,…. ,AZ, BA, BB, … ZZ, AAA, AAB ….. etc. In other words, column 1 is named as “A”, column 2 as “B”, column 27 as “AA” and so on.</p>
 
+<b>28. Roman Number to Integer</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Roman_Number_to_Integer.py)
+<p>Given a string in roman no format, your task is to convert it to an integer.</p>
+
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
