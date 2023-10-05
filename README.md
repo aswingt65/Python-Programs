@@ -95,6 +95,8 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>28. Roman Number to Integer</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Roman_Number_to_Integer.py)
 <p>Given a string in roman no format, your task is to convert it to an integer.</p>
 
+<b>29. Count number of substrings</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Count_number_of_substrings.py)
+<p>Given a string of lowercase alphabets, count all possible substrings (not necessarily distinct) that have exactly k distinct characters. </p>
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
