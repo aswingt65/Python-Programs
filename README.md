@@ -98,6 +98,14 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>29. Count number of substrings</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Count_number_of_substrings.py)
 <p>Given a string of lowercase alphabets, count all possible substrings (not necessarily distinct) that have exactly k distinct characters. </p>
 
+<b>30. Reverse alternate nodes in Link List</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Reverse_alternate_nodes_in_Link_List.py)
+<p>Given a linked list, you have to perform the following task:<br>
+<ol>1. Extract the alternative nodes starting from second node.</ol>
+<ol>2. Reverse the extracted list.</ol>
+<ol>3. Append the extracted list at the end of the original list.</ol>
+</p>
+
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
