@@ -108,6 +108,11 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>31. Pairwise swap elements of a linked list</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Pairwise_swap_elements_of_a_linked_list.py)
 <p>Given a singly linked list of size N. The task is to swap elements in the linked list pairwise. For example, if the input list is 1 2 3 4, the resulting list after swaps will be 2 1 4 3.</p>
 
+<b>32. Insert in a Sorted list</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Insert_in_a_Sorted_List.py)
+<p>Given a linked list sorted in ascending order and an integer called data, insert data in the linked list such that the list remains sorted.</p>
+
+
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
