@@ -111,7 +111,8 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>32. Insert in a Sorted list</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Insert_in_a_Sorted_List.py)
 <p>Given a linked list sorted in ascending order and an integer called data, insert data in the linked list such that the list remains sorted.</p>
 
-
+<b>33. Height of Binary Tree</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Height_of_Binary_Tree.py)
+<p>Given a binary tree, find its height.</p>
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
