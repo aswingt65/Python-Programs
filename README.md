@@ -114,6 +114,10 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>33. Height of Binary Tree</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Height_of_Binary_Tree.py)
 <p>Given a binary tree, find its height.</p>
 
+<b>34. Nodes at given distance in binary tree</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Nodes_at_given_distance_in_binary_tree.py)
+<p>Given a binary tree, a target node in the binary tree, and an integer value k, find all the nodes that are at distance k from the given target node. No parent pointers are available.</p>
+
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
