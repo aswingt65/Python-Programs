@@ -117,6 +117,8 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>34. Nodes at given distance in binary tree</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Nodes_at_given_distance_in_binary_tree.py)
 <p>Given a binary tree, a target node in the binary tree, and an integer value k, find all the nodes that are at distance k from the given target node. No parent pointers are available.</p>
 
+<b>35. Check for Balanced Tree</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Check_for_Balanced_Tree.py)
+<p>Given a binary tree, find if it is height balanced or not. A tree is height balanced if difference between heights of left and right subtrees is not more than one for all nodes of tree.</p>
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
