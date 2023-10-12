@@ -120,6 +120,10 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>35. Check for Balanced Tree</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Check_for_Balanced_Tree.py)
 <p>Given a binary tree, find if it is height balanced or not. A tree is height balanced if difference between heights of left and right subtrees is not more than one for all nodes of tree.</p>
 
+<b>36. Duplicate subtree in Binary Tree</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Duplicate_subtree_in_Binary_Tree.py)
+<p>Given a binary tree, find out whether it contains a duplicate sub-tree of size two or more, or not.</p>
+
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
