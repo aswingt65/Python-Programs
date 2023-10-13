@@ -123,6 +123,10 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>36. Duplicate subtree in Binary Tree</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Duplicate_subtree_in_Binary_Tree.py)
 <p>Given a binary tree, find out whether it contains a duplicate sub-tree of size two or more, or not.</p>
 
+<b>37. Floor in BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Floor_in_BST.py)
+<p>You are given a BST(Binary Search Tree) with n number of nodes and value x. your task is to find the greatest value node of the BST which is smaller than or equal to x.</p>
+
+
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
