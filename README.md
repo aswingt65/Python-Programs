@@ -126,6 +126,8 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>37. Floor in BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Floor_in_BST.py)
 <p>You are given a BST(Binary Search Tree) with n number of nodes and value x. your task is to find the greatest value node of the BST which is smaller than or equal to x.</p>
 
+<b>38. Find Common Nodes in two BSTs</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Find_Common_Nodes_in_two_BSTs.py)
+<p>Given two Binary Search Trees. Find the nodes that are common in both of them, i.e- find the intersection of the two BSTs.</p>
 
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
