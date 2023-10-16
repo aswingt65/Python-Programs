@@ -129,6 +129,12 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>38. Find Common Nodes in two BSTs</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Find_Common_Nodes_in_two_BSTs.py)
 <p>Given two Binary Search Trees. Find the nodes that are common in both of them, i.e- find the intersection of the two BSTs.</p>
 
+<b>39. Normal BST to Balanced BST</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Normal_BST_to_Balanced_BST.py)
+<p>Given a Binary Search Tree, modify the given BST such that it is balanced and has minimum possible height. Return the balanced BST.</p>
+
+<b>40. Making A Large Island</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Making_A_Large_Island.py)
+<p> You are given an n x n binary matrix grid. You are allowed to change at most one 0 to be 1. A group of connected 1s forms an island. Two 1s are connected if they share one of their sides with each other. Return the size of the largest island in the grid after applying this operation.</p>
+
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
