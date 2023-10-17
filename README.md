@@ -135,7 +135,7 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>40. Making A Large Island</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Making_A_Large_Island.py)
 <p> You are given an n x n binary matrix grid. You are allowed to change at most one 0 to be 1. A group of connected 1s forms an island. Two 1s are connected if they share one of their sides with each other. Return the size of the largest island in the grid after applying this operation.</p>
 
-<b>40. Making A Large Island</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Transitive_closure_of_a_Graph.py)
+<b>41. Transitive closure of a Graph</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Transitive_closure_of_a_Graph.py)
 <p> Given a directed graph, determine whether a vertex j is reachable from another vertex i for all vertex pairs (i, j) in the given graph. Here, vertex j is reachable from another vertex i means that there is a path from vertex i to j. The reachability matrix is called the transitive closure of a graph. The directed graph is represented by an adjacency matrix where there are N vertices.</p>
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
