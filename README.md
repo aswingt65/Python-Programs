@@ -144,6 +144,12 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 <b>43. Level of Nodes</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Level_of_Nodes.py)
 <p> Given an integer X and an undirected acyclic graph with V nodes, labeled from 0 to V-1, and E edges, find the level of node labeled as X. Level is the minimum number of edges you must travel from the node 0 to some target. If there doesn't exists such a node that is labeled as X, return -1.</p>
 
+<b>44. Form a number divisible by 3 using array digits</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Form_a_number_divisible_by_3_using_array_digits.py)
+<p> You will be given an array arr of integers of length N. You can construct an integer from two integers by treating the integers as strings, and then concatenating them. For example, 19 and 4 can be used to construct 194 and 419.<br>
+The task is to find whether it’s possible to construct an integer using all the digits of these numbers such that it would be divisible by 3.
+If it is possible then print 1 and if not print 0.</p>
+
+
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
 If the input is a prime number, the program returns the number itself.<br>
