@@ -149,6 +149,8 @@ You are given a number N, you need to tell whether the number is lucky or not. I
 The task is to find whether it’s possible to construct an integer using all the digits of these numbers such that it would be divisible by 3.
 If it is possible then print 1 and if not print 0.</p>
 
+<b>45. Sum of all divisors from 1 to n</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Sum_of_all_divisors_from_1_to_n.py)
+<p> Given a positive integer N, The task is to find the value of Σi from 1 to N F(i) where function F(i) for the number i is defined as the sum of all divisors of i.</p>
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
