@@ -165,6 +165,12 @@ If it is possible then print 1 and if not print 0.</p>
 <p> Given a set of N items, each with a weight and a value, represented by the array w and val respectively. Also, a knapsack with weight limit W.
 The task is to fill the knapsack in such a way that we can get the maximum profit. Return the maximum profit.</p>
 
+<b>50. Minimum Operations</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Minimum_Operations.py)
+<p> Given a number N. Find the minimum number of operations required to reach N starting from 0. You have 2 operations available:<br>
+  1.Double the number<br>
+  2.Add one to the number</p>
+
+
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
 This prgram takes a natural number as input and returns the sum of the prime multiples (2,3,5,7,11,13 ...) of the number.<br>
