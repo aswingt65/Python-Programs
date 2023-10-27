@@ -170,6 +170,8 @@ The task is to fill the knapsack in such a way that we can get the maximum profi
   1.Double the number<br>
   2.Add one to the number</p>
 
+<b>51. Minimum Deletions</b>  [[program link]](https://github.com/aswingt65/Python-Programs/blob/main/GeeksforGeeks/Minimum_Deletions.py)
+<p> Given a string of S as input. Your task is to write a program to delete the minimum number of characters from the string so that the resultant string is a palindrome.</p>
 
 
 ## [sum_of_prime_multiples](https://github.com/aswingt65/Python-Programs/blob/main/sum_of_prime_multiples)
