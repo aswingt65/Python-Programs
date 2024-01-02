@@ -1,0 +1,34 @@
+class Solution:
+    def canPair(self, nums, k):
+        d = dict()
+        for i in range(len(nums)):
+            cur = nums[i]%k
+            need=(k-cur)%k
+            
+            if need in d:
+                d[need]-=1
+                if d[need] == 0:
+                    del d[need]
+            else:
+                d[cur] = d.get(cur,0)+1
+          
+        return len(d)==0
+
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
+
+if __name__ == '__main__':
+	T=int(input())
+	for i in range(T):
+		n, k = input().split()
+		n = int(n)
+		k = int(k)
+		nums = list(map(int, input().split()))
+		ob = Solution()
+		ans = ob.canPair(nums, k)
+		if(ans):
+			print("True")
+		else:
+			print("False")
+# } Driver Code Ends
